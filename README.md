@@ -33,3 +33,8 @@ DB=xxxxxxxxxx
 ```
 
 - Fill `config.json` 
+
+
+# Callbacks on Auth Developer Portal
+- https://domain/auth/
+- https://domain/auth/login
