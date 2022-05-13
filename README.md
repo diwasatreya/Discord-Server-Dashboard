@@ -17,7 +17,7 @@
 # Installation
 
 - Clone Repo
-```js
+```
 git clone https://github.com/diwasatreya/Discord-Server-Dashboard.git
 ```
 
@@ -27,7 +27,7 @@ npm install
 ```
 
 - Create `.env` file (Environment Secret in replit)
-```js
+```
 TOKEN=XXXXXXXXXX
 DB=xxxxxxxxxx
 ```
