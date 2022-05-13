@@ -12,6 +12,15 @@
 
 </div>
 
-<br/>
+<br>
 
+# Installation
 
+- Clone Repo
+```js
+git clone https://github.com/diwasatreya/Discord-Server-Dashboard.git
+```
+
+- After cloning, type (shell/terminal)
+```js
+npm install```
