@@ -14,7 +14,7 @@
 
 <br>
 
-# Installation
+## Installation
 
 - Clone Repo
 ```
@@ -29,12 +29,11 @@ npm install
 - Create `.env` file (Environment Secret in replit)
 ```
 TOKEN=XXXXXXXXXX
-DB=xxxxxxxxxx
+DB=XXXXXXXXXXXXX
 ```
 
 - Fill `config.json` 
 
 
-# Redirect URL for Auth (Add this in [developer portal](https://discordapp.com/developers/applications/))
-- `https://domain/auth/`
-- `https://domain/auth/login`
+## Discord Developer Portal
+Add `https://domain/` & `https://domain/auth/login` in application OAuth2 redirect url 
