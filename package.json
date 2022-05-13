@@ -1,0 +1,36 @@
+{
+  "name": "discord-server-dashboard",
+  "version": "1.0.0",
+  "description": "It is a fully responsive discord server/bot dashboard template. Here you can see login system also.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diwasatreya/Discord-Server-Dashboard.git"
+  },
+  "keywords": [
+    "discord-bot",
+    "discord-dashboard",
+    "discord-website"
+  ],
+  "author": "Diwas Atreya",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "bcryptjs": "^2.4.3",
+    "btoa": "^1.2.1",
+    "discord.js": "^12.2.0",
+    "dotenv": "^16.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.1",
+    "morgan": "^1.10.0",
+    "node-fetch": "^2.6.7",
+    "superagent": "^6.1.0"
+  },
+  "homepage": "https://github.com/diwasatreya/Discord-Server-Dashboard#readme"
+}
