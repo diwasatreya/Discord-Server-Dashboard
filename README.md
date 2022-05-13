@@ -37,3 +37,8 @@ DB=XXXXXXXXXXXXX
 
 ## Discord Developer Portal
 Add `https://domain/` & `https://domain/auth/login` in application OAuth2 redirect url 
+
+
+## Adding API's
+Goto `routes/api.js` then add your api code
+
