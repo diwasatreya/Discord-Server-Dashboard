@@ -35,6 +35,6 @@ DB=xxxxxxxxxx
 - Fill `config.json` 
 
 
-# Callbacks on Auth Developer Portal
-- https://domain/auth/
-- https://domain/auth/login
+# Redirect URL for Auth (Add this in [developer portal](https://discordapp.com/developers/applications/))
+- `https://domain/auth/`
+- `https://domain/auth/login`
