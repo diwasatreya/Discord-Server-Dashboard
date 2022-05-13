@@ -43,7 +43,7 @@ Add `https://domain/` & `https://domain/auth/login` in application OAuth2 redire
 Goto `routes/api.js` then add your api code
 
 <div align="center">
-  <br><br>
+  <br>
   <h3> Star the Project </h3>
   <p> Follow me on github </p>
  <img src="https://user-images.githubusercontent.com/74746579/168328818-6995ed8d-915d-4083-9279-3d94e1d150c5.png" alt="help to star">
