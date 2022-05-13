@@ -21,6 +21,8 @@
 git clone https://github.com/diwasatreya/Discord-Server-Dashboard.git
 ```
 
+- [Run in replit](https://repl.it/github/diwasatreya/Discord-Server-Dashboard)
+
 - After cloning, type (Shell/Terminal)
 ```js
 npm install
