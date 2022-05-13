@@ -21,6 +21,15 @@
 git clone https://github.com/diwasatreya/Discord-Server-Dashboard.git
 ```
 
-- After cloning, type (shell/terminal)
+- After cloning, type (Shell/Terminal)
 ```js
-npm install```
+npm install
+```
+
+- Create `.env` file (Environment Secret in replit)
+```js
+TOKEN=XXXXXXXXXX
+DB=xxxxxxxxxx
+```
+
+- Fill `config.json` 
