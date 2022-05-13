@@ -44,6 +44,6 @@ Goto `routes/api.js` then add your api code
 
 <div align="center>
             
-            ![image](https://user-images.githubusercontent.com/74746579/168328818-6995ed8d-915d-4083-9279-3d94e1d150c5.png)
+            <img src="https://user-images.githubusercontent.com/74746579/168328818-6995ed8d-915d-4083-9279-3d94e1d150c5.png" alt="help to star">
             </div>
             
