@@ -1,0 +1,13 @@
+{
+	"bot": {
+		"id": "962679198139449434",
+		"prefix": "!",
+		"secret": "lclye3cy-j3s-jQR-n4_OnEvTsC3S1ad",
+		"status": "dnd",
+		"url": "https://discord.supremeclub.repl.co",
+		"production": true
+	},
+	"app": {
+		"port": 6000
+	}
+}
