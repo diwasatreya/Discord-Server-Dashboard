@@ -67,7 +67,7 @@ const team1 = document.getElementById("team1");
 for (let indexOne = 0; indexOne < owner.length; indexOne++) {
     const a = owner[indexOne];
 
-    fetch(`https://discord-web-api.glitch.me/discord/user/${a.id}`, {
+    fetch(`https://aromaxdev.xyz/api/discord/user/${a.id}`, {
     }).then(res => res.json())
         .then(data => {
 const ownerList = `<a href="${a.url}" class="team-member"><figure>
@@ -80,7 +80,7 @@ const team2 = document.getElementById("team2");
 for (let indexOne = 0; indexOne < owner2.length; indexOne++) {
     const a = owner2[indexOne];
 
-    fetch(`https://discord-web-api.glitch.me/discord/user/${a.id}`, {
+    fetch(`https://aromaxdev.xyz/api/discord/user/${a.id}`, {
     }).then(res => res.json())
         .then(data => {
 const ownerList = `<a href="${a.url}" class="team-member"><figure>
@@ -93,7 +93,7 @@ const team3 = document.getElementById("team3");
 for (let indexOne = 0; indexOne < mod1.length; indexOne++) {
     const a = mod1[indexOne];
 
-    fetch(`https://discord-web-api.glitch.me/discord/user/${a.id}`, {
+    fetch(`https://aromaxdev.xyz/api/discord/user/${a.id}`, {
     }).then(res => res.json())
         .then(data => {
 const ownerList = `<a href="${a.url}" class="team-member"><figure>
@@ -106,7 +106,7 @@ const team4 = document.getElementById("team4");
 for (let indexOne = 0; indexOne < mod2.length; indexOne++) {
     const a = mod2[indexOne];
 
-    fetch(`https://discord-web-api.glitch.me/discord/user/${a.id}`, {
+    fetch(`https://aromaxdev.xyz/api/discord/user/${a.id}`, {
     }).then(res => res.json())
         .then(data => {
 const ownerList = `<a href="${a.url}" class="team-member"><figure>
@@ -119,7 +119,7 @@ const team5 = document.getElementById("team5");
 for (let indexOne = 0; indexOne < mod3.length; indexOne++) {
     const a = mod3[indexOne];
 
-    fetch(`https://discord-web-api.glitch.me/discord/user/${a.id}`, {
+    fetch(`https://aromaxdev.xyz/api/discord/user/${a.id}`, {
     }).then(res => res.json())
         .then(data => {
 const ownerList = `<a href="${a.url}" class="team-member"><figure>
@@ -132,7 +132,7 @@ const team6 = document.getElementById("team6");
 for (let indexOne = 0; indexOne < mod4.length; indexOne++) {
     const a = mod4[indexOne];
 
-    fetch(`https://discord-web-api.glitch.me/discord/user/${a.id}`, {
+    fetch(`https://aromaxdev.xyz/api/discord/user/${a.id}`, {
     }).then(res => res.json())
         .then(data => {
 const ownerList = `<a href="${a.url}" class="team-member"><figure>
@@ -145,7 +145,7 @@ const team7 = document.getElementById("team7");
 for (let indexOne = 0; indexOne < mod5.length; indexOne++) {
     const a = mod5[indexOne];
 
-    fetch(`https://discord-web-api.glitch.me/discord/user/${a.id}`, {
+    fetch(`https://aromaxdev.xyz/api/discord/user/${a.id}`, {
     }).then(res => res.json())
         .then(data => {
 const ownerList = `<a href="${a.url}" class="team-member"><figure>
@@ -174,7 +174,7 @@ const gaw = document.getElementById("gaw");
 for (let indexOne = 0; indexOne < win.length; indexOne++) {
     const a = win[indexOne];
 
-    fetch(`https://discord-web-api.glitch.me/discord/user/${a.id}`, {
+    fetch(`https://aromaxdev.xyz/api/discord/user/${a.id}`, {
     }).then(res => res.json())
         .then(data => {
 const ownerList = `<img src="${data.url}" alt="${data.username}${data.discriminator}"></img>`
@@ -187,7 +187,7 @@ const gaw2 = document.getElementById("gaw2");
 for (let indexOne = 0; indexOne < win2.length; indexOne++) {
     const a = win2[indexOne];
 
-    fetch(`https://discord-web-api.glitch.me/discord/user/${a.id}`, {
+    fetch(`https://aromaxdev.xyz/api/discord/user/${a.id}`, {
     }).then(res => res.json())
         .then(data => {
 const ownerList = `<img src="${data.url}" alt="${data.username}${data.discriminator}"></img>`
