@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * Code Owner: Diwas Atreya (Supreme#2401)
+ * Code Owner: Diwas Atreya (Atreya#2401)
  * Github: https://github.com/diwasatreya
  * Contact on Twitter: https://twitter.com/DiwasAtreya
  */
@@ -238,7 +238,7 @@ window.addEventListener("scroll", function () {
 })
 
 /**
- * Code Owner: Diwas Atreya (Supreme#2401)
+ * Code Owner: Diwas Atreya (Atreya#2401)
  * Github: https://github.com/diwasatreya
  * Contact on Twitter: https://twitter.com/DiwasAtreya
  */

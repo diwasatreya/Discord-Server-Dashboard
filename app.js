@@ -1,4 +1,4 @@
- // * Code Owner: Diwas Atreya (Supreme#2401)
+ // * Code Owner: Diwas Atreya (Atreya#2401)
  // * Github: https://github.com/diwasatreya
  // * Contact on Twitter: https://twitter.com/DiwasAtreya
 
@@ -138,6 +138,6 @@ this.app.get('/reddit', async (req, res) => {
 
 module.exports = new Website();
 
- // * Code Owner: Diwas Atreya (Supreme#2401)
+ // * Code Owner: Diwas Atreya (Atreya#2401)
  // * Github: https://github.com/diwasatreya
  // * Contact on Twitter: https://twitter.com/DiwasAtreya
